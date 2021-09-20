@@ -1,7 +1,6 @@
 ### Hey!! Eu sou o Vinicius Meuci 🙂!
 
-- 📖 I’m currently learning ReactJS
-- 
+- 📖 I’m currently learning ReactJS!
 
 
 <div>

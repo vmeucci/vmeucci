@@ -1,10 +1,4 @@
-### Hey!! Eu sou o Vinicius Meuci 🙂
-!
-
-<!--
-**vmeucci/vmeucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hey!! Eu sou o Vinicius Meuci 🙂!
 
 - 📖 I’m currently learning ReactJS
 - 😄 Pronouns: ele/dele

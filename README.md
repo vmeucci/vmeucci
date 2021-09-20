@@ -24,7 +24,7 @@
  
 <div> 
   <img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" href="https://www.icloud.com/mail">
-  <a href="https://steamcommunity.com/profiles/76561198354871547/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
+  <a href="https://outlook.live.com/mail/0/inbox" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/vinicius-meuci-bastos-171a091ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>

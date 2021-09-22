@@ -1,4 +1,4 @@
-### Hey!! Eu sou o Vinicius Meuci 🙂!
+### Hey!! I'm Vinicius Meuci 🙂!
 
 - 📖 I’m currently learning ReactJS!
 

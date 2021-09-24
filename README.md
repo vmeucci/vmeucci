@@ -23,7 +23,6 @@
  
 <div> 
   
-  <a href="mailto:viniciusmeuci@icloud.com" target="_blank"><img height="60em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" target="_blank"></a> 
   <a href="mailto:viniciusmeuci@outlook.com.br" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/vinicius-meuci-bastos-171a091ab/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
